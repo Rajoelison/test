@@ -30,18 +30,30 @@ li
 .v2
 {
 	background-color: green
+
 }
 .v3
 {
 	background-color: orange
 }
-.v1
+.v1 , .v2 , .v3
 {
-	border-radius: 40px
-}.v3
+	width: 300px
+}
+
+section
 {
-	border-radius: 40px
-}.v2
+	display: inline-flex;
+}
+.v1,.v2
 {
-	border-radius: 40px
+	margin-right: 20px
+}
+
+.v1{
+	margin-left: 250px
+}
+.v1 ,.v2,.v3
+{
+	border-radius:5px 
 }
