@@ -1,0 +1,47 @@
+p
+{
+	border: solid 3px black;
+	border-radius: 60px
+	width: 500px
+
+}
+p{
+	border-radius: 60px
+
+}
+p{
+	text-align: center;
+}
+p
+{
+	background-color: red
+}
+
+li
+{
+	list-style-position: inside;
+    
+
+}
+.v1
+{
+	background-color: blue
+}
+.v2
+{
+	background-color: green
+}
+.v3
+{
+	background-color: orange
+}
+.v1
+{
+	border-radius: 40px
+}.v3
+{
+	border-radius: 40px
+}.v2
+{
+	border-radius: 40px
+}
