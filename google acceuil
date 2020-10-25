@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+<link rel="stylesheet" type="text/css" href="baby.css">
+<body>
+<head>
+	<div class="vero0">
+		<div class="vero">
+		<P><a href="https://mail.google.com/mail/?tab=wm&ogbl">Gmail</a> &emsp; &emsp;  <a href="https://www.google.mg/imghp?hl=fr&tab=wi&ogbl">Images</a></p></div>
+	<div class="vero2">
+ <a href= "https://www.google.mg/intl/fr/about/products?tab=wh"><input type="image" href= "https://www.google.mg/intl/fr/about/products?tab=wh"src="Capture du 2020-10-22 17-19-14.png" name="okaz" id="koko"></a><a href="https://accounts.google.com/SignOutOptions?hl=fr&continue=https://www.google.com%3Fhl%3Dfr"><input type="image" src="num.png" name="button" id="lolo"></a> </div></div>
+
+</head>
+<body>
+<section>
+	<figure><img src="maxresdefault.jpg"></figure>
+	 <figcaption><form><input type="search" name="koko" id="search"></form>	</figcaption>
+	 <figcaption><button>Recherche Google</button>&emsp; &emsp;<button>J'ai de la chance</button></figcaption>
+	 <p class="LOL">Google disponible en : <a href="https://www.google.com/setprefs?sig=0_AJc-m8LcKB3pj7N9jDzlhgn4vPA%3D&hl=en&source=homepage&sa=X&ved=0ahUKEwjgjd_YoMjsAhVQJBoKHfC_CUgQ2ZgBCA8">English</a> <a href="https://www.google.com/setprefs?sig=0_AJc-m8LcKB3pj7N9jDzlhgn4vPA%3D&hl=mg&source=homepage&sa=X&ved=0ahUKEwjgjd_YoMjsAhVQJBoKHfC_CUgQ2ZgBCBA">Malagasy</a></p>
+</section>
+<footer>
+	<p class="lol3">Madagascar</p>
+	<p class="lo2"><a href="https://policies.google.com/privacy?hl=fr-MG&fg=1">Confidentialité</a> &emsp; &emsp;<a href="https://policies.google.com/terms?hl=fr-MG&fg=1">Conditions</a> &emsp; &emsp;&emsp;<a href="https://www.google.com/preferences?hl=fr">Paramètres</a>&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;<a href="https://www.google.com/intl/fr_mg/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1">Publicité</a>&emsp; &emsp;&emsp;<a href="https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1">Entreprise</a>&emsp; &emsp;&emsp;<a href="https://about.google/?utm_source=google-MG&utm_medium=referral&utm_campaign=hp-footer&fg=1">À propos</a> &emsp; &emsp;&emsp;<a href="https://google.com/search/howsearchworks/?fg=1">Comment fonctionne la recherche Google ?</a></p>
+</footer>
+
+</body>
+</html>
